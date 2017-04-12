@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGuiceServer.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGuiceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGuiceServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGuiceServer_main.iml" group="TestGuiceServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGuiceServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGuiceServer_test.iml" group="TestGuiceServer" />
+    </modules>
+  </component>
+</project>
